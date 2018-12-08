@@ -1,8 +1,15 @@
-## Welcome to GitHub Pages
+## ECE 4180: Plantr
 
 You can use the [editor on GitHub](https://github.com/jharveymorgan/Plantr/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+* Jacob Bruhn
+* Lubby Alexander
+* Connor Hawley
+* Jordan Harvey-Morgan
+
+### Project Idea
+Everyone wants fresh food and there is nothing fresher than something grown in your own backyard. However, not everyone likes actually getting their hands dirty. That’s why we created Plantr, your new gardening assistant. Simply drive this modified RC Car around your garden and drop seeds, fertilizer, and water like a pro. 
 
 ### Markdown
 
