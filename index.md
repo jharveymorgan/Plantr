@@ -1,6 +1,6 @@
 ## ECE 4180: Plantr
 * Jacob Bruhn
-* Lubby Alexander
+* Caleb Alexander
 * Connor Hawley
 * Jordan Harvey-Morgan
 
