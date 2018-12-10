@@ -38,8 +38,7 @@ Everyone wants fresh food and there is nothing fresher than something grown in y
 5. On E, cut ONLY (2) 0.5" circles
 6. On H, cut a 2" diameter circle out. 
    * The top of the circle should be 1/8" from the end of the plank
-   * Circle should be centered
-7. Make sure acrylic fits in the new cut out on H.
+   * Circle should be centered7. Make sure acrylic fits in the new cut out on H.
 8. Glue E and H together with wood glue, so that the 0.5" circles are within the 2" diameter cut out.
     
     
