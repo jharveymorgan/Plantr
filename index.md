@@ -28,7 +28,8 @@ Everyone wants fresh food and there is nothing fresher than something grown in y
   * 3 4.5x4.5 in pieces
 2. Cut acrylic into circle with a 2 in diameter.
 3. Cut (2) 0.5 in diameter circles, like so: 
-   ![image of acrylic] (https://github.com/jharveymorgan/Plantr/blob/master/images/Plantr%20-%20Acrylic.png)
+   ![image of acrylic] 
+   (https://github.com/jharveymorgan/Plantr/blob/master/images/Plantr%20-%20Acrylic.png)
 4. 
     
     
