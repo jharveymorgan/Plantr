@@ -15,8 +15,22 @@ Everyone wants fresh food and there is nothing fresher than something grown in y
 * DC motor
 * 2 Arduino Nanos
 * 2 Adafruit Bluefruit UART Low Power Bluetooth
-* 2 Power MOSFETS
-* 1 Solenoid Valve
+* 2 3060NL Power MOSFETS
+* 1 Adafruit Solenoid Valve
+* 1 Plastic bottle
+* Wood Glue and Hot Glue
+
+### Instructions
+1. Cut Wood Pieces
+  * 2 17x5 in pieces
+  * 1 5x5 in pieces
+  * 1 12.25x5 in pieces
+  * 3 4.5x4.5 in pieces
+2. Cut acrylic into circle with a 2 in diameter.
+    
+    
+
+
 
 
 
