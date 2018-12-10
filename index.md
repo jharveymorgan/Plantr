@@ -22,15 +22,25 @@ Everyone wants fresh food and there is nothing fresher than something grown in y
 
 ### Instructions
 1. Cut Wood Pieces
-  * 2 17x5 in pieces
-  * 1 5x5 in pieces
-  * 1 12.25x5 in pieces
-  * 3 4.5x4.5 in pieces
-2. Cut acrylic into circle with a 2 in diameter.
-3. Cut (2) 0.5 in diameter circles, like so: 
+  * A: 17x5 in
+  * B: 17x5 in
+  * C: 5x5 in
+  * D: 12.25x5 in
+  * E: 4.5x4.5 in
+  * F: 4.5x4.5 in
+  * G: 4.5x4.5 in
+  * H: 20x5 in
+2. Cut acrylic into circle with a 2" diameter.
+3. Cut (2) 0.5" diameter circles, like so: 
    
    ![image of acrylic](images/Plantr - Acrylic.png)
-4. 
+4. On E, trace out the above image.
+5. On E, cut ONLY (2) 0.5" circles
+6. On H, cut a 2" diameter circle out. 
+   * The top of the circle should be 1/8" from the end of the plank
+   * Circle should be centered
+7. Make sure acrylic fits in the new cut out on H.
+8. Glue E and H together with wood glue, so that the 0.5" circles are within the 2" diameter cut out.
     
     
 
