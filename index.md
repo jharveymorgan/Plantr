@@ -57,12 +57,5 @@ Everyone wants fresh food and there is nothing fresher than something grown in y
    ![bluetooth wiring](images/Bluetooth-v2_bb.png)
 2. Upload [Master Bluetooth Code](masterCodeUI.ino) to one Ardruino Nano.
 3. Upload [Slave Bluetooth Code](slaveCode.ino) to the other Arduino Nano.
-
-### PCB Schematic
-      
-      
       
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
