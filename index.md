@@ -44,6 +44,7 @@ Everyone wants fresh food and there is nothing fresher than something grown in y
 9. Cut a 2" notch in D
 10. Glue solenoid into the new notch in D
 11. Glue all boards together. The solenoid should be above the acrylic, like so: 
+    
     ![image of assembled project](Plantr/images/birds eye.jpg)
       
     
