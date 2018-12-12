@@ -50,7 +50,7 @@ Everyone wants fresh food and there is nothing fresher than something grown in y
 ### Bluetooth Instructions
 1. Wire 2 HC-05 bluetooth modules and Arduino Nanos according to diagram below:
 
-   ![bluetooth wiring](images/Bluetooth-v1_bb.png)
+   ![bluetooth wiring](images/Bluetooth-v2_bb.png)
 2. Upload [Master Bluetooth Code](masterCodeUI.ino) to one Ardruino Nano.
 3. Upload [Slave Bluetooth Code](slaveCode.ino) to the other Arduino Nano.
       
