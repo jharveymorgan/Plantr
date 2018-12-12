@@ -14,13 +14,13 @@ Everyone wants fresh food and there is nothing fresher than something grown in y
 * 4 nuts and bolts
 * DC motor
 * 2 Arduino Nanos
-* 2 Adafruit Bluefruit UART Low Power Bluetooth
+* 2 HC-05 Module Bluetooth Serial
 * 2 3060NL Power MOSFETS
 * 1 Adafruit Solenoid Valve
 * 1 Plastic bottle
 * Wood Glue and Hot Glue
 
-### Instructions
+### Assembly Instructions
 1. Cut Wood Pieces
   * A: 17x5 in
   * B: 17x5 in
@@ -46,6 +46,16 @@ Everyone wants fresh food and there is nothing fresher than something grown in y
 11. Glue all boards together. The solenoid should be above the acrylic, like so: 
     
     ![image of assembled project](images/birds eye.jpg)
+
+### Bluetooth Instructions
+1. Wire 2 HC-05 bluetooth modules and Arduino Nanos according to diagram below:
+
+   ![bluetooth wiring](images/Bluetooth-v1_bb.png)
+2. Upload [Master Bluetooth Code](masterCodeUI.ino) to one Ardruino Nano.
+3. Upload [Slave Bluetooth Code](slaveCode.ino) to the other Arduino Nano.
+      
+      
+      
       
     
     
