@@ -41,6 +41,11 @@ Everyone wants fresh food and there is nothing fresher than something grown in y
    * Circle should be centered
 7. Make sure acrylic fits in the new cut out on H.
 8. Glue E and H together with wood glue, so that the 0.5" circles are within the 2" diameter cut out.
+9. Cut a 2" notch in D
+10. Glue solenoid into the new notch in D
+11. Glue all boards together. The solenoid should be above the acrylic, like so: 
+    ![image of assembled project](Plantr/images/birds eye.jpg)
+      
     
     
 
