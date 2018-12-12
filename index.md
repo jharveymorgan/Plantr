@@ -45,7 +45,11 @@ Everyone wants fresh food and there is nothing fresher than something grown in y
 10. Glue solenoid into the new notch in D
 11. Glue all boards together. The solenoid should be above the acrylic, like so: 
     
-    ![image of assembled project](images/birds eye.jpg)
+    ![image of assembled project](images/birdseye1.jpg)
+12. Cut a 1"x2" rectangle at the end of H, so that it fits the water dispenser.
+13. Drill a hole 2.5" above the rectangle, in order to dispense water. It should look similar to this:
+    
+    ![image final assembly](images/birds eye.jpg)
 
 ### Bluetooth Instructions
 1. Wire 2 HC-05 bluetooth modules and Arduino Nanos according to diagram below:
@@ -53,20 +57,11 @@ Everyone wants fresh food and there is nothing fresher than something grown in y
    ![bluetooth wiring](images/Bluetooth-v2_bb.png)
 2. Upload [Master Bluetooth Code](masterCodeUI.ino) to one Ardruino Nano.
 3. Upload [Slave Bluetooth Code](slaveCode.ino) to the other Arduino Nano.
+
+### PCB Schematic
       
       
       
-      
-    
-    
-
-
-
-
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jharveymorgan/Plantr/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
